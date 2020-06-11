@@ -35,8 +35,8 @@
     </div>
 
     <!-- TODO: Current Tasks -->
-        <!-- 現在のタスク -->
-        @if (count($tasks) > 0)
+    <!-- 現在のタスク -->
+    @if (count($tasks) > 0)
         <div class="panel panel-default">
             <div class="panel-heading">
                 Current Tasks
